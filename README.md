@@ -31,5 +31,5 @@ If a password meets more of these criteria, it's considered stronger. The app al
 
 1. Clone the repository:
    ```bash
-   git clone [github.com/RebeLegend]
+   git clone [github.com/RebeLegend/PasswordTool]
 
